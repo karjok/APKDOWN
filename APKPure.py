@@ -54,7 +54,7 @@ def search():
 
 def main():
       global link,nm,linkfile,size
-      no =-1
+      no =0
       link =[]
       judul=[]
       developer=[]
@@ -80,7 +80,8 @@ def main():
             print('='*45)    
       print (yl+str(len(link))+lg+' Aplikasi ditemukan'+x)
       
-      do = int(input(yl+'Pilih no berapa gan ? : '+x))    
+      do = int(input(yl+'Pilih no berapa gan ? : '+x))  
+      do = do - 1
       nm = input(yl+'Masukkan nama output: '+x)
       linx='https://m.apkpure.com'+str(link[do])+'/download?from=details'
       r = Request(linx,headers={'User-Agent':'Dalvik/2.1.0 (Linux; U; Android 7.1.2; Redmi Note 5A MIUI/V9.6.2.0.NDFMIFD'})
