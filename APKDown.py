@@ -24,7 +24,8 @@ hehe
 
 
 import subprocess as sp
-print('Tunggu bentar cok ! :*')
+sp.call('clear')
+print('\nTunggu bentar cok ! :*')
 sp.call('pip install -r .modul',shell=True,stdout=sp.DEVNULL,stderr=sp.STDOUT)
 import os, threading,sys,time,requests
 from urllib.request import Request, urlopen
