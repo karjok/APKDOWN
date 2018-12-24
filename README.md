@@ -1,5 +1,5 @@
 <img src='https://github.com/karjok/APKDOWN/blob/master/IMG_20181223_153050.jpg'/>
-<i>ini gambar gw skrinsut pas habis donlot aimontok ya gayn, hehe</i><br>
+<i>ini gambar gw skrinsut pas habis donlot  SIMONTOQUE ya gayn, hehe</i><br>
 
       
 
