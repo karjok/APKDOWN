@@ -1,3 +1,7 @@
+<img src='
+
+      
+
 # APK Downloader
 Apk downloader from APKPURE.COM dan APK-DL.COM hehe
 # How to ngocok
@@ -8,3 +12,9 @@ $lihatlah si otong yg tak bersalah, menunduk lemah, apakah kau tega mencekiknya 
 $takut, nggak jadi colay, tobat<br>
 $masuk syurga
 # MAMPUS LO, JAN SUKA COLI eaa
+# Cara Makeknya Gini Gan
+$git clone dulu ea kan... kalo udah, lanjutt<br>
+$python APKDown.py
+# jan lupa follow aku ya gayn.. hehe
+# @karjok.pangesty
+# :*
