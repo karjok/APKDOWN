@@ -1,5 +1,5 @@
-# APKPURE
-Apk downloader from APKPURE.COM hehe
+# APK Downloader
+Apk downloader from APKPURE.COM dan APK-DL.COM hehe
 # How to ngocok
 $siapkan bahan<br>
 $sabun, oli, balsem, minyak rem, dll<br>
