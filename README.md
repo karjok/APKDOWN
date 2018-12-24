@@ -1,10 +1,10 @@
 <img src='https://github.com/karjok/APKDOWN/blob/master/IMG_20181223_153050.jpg'/>
-*ini gambar gw skrinsut pas habis donlot aimontok ya gayn, hehe<br>
+<i>ini gambar gw skrinsut pas habis donlot aimontok ya gayn, hehe</i><br>
 
       
 
 # APK Downloader
-Apk downloader from APKPURE.COM dan APK-DL.COM hehe
+for donlod APK from APKPURE.COM dan APK-DL.COM hehe
 # How to ngocok
 $siapkan bahan<br>
 $sabun, oli, balsem, minyak rem, dll<br>
